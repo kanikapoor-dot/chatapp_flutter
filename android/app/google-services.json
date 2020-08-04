@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739529638408",
+    "firebase_url": "https://chatoop-30d63.firebaseio.com",
+    "project_id": "chatoop-30d63",
+    "storage_bucket": "chatoop-30d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739529638408:android:d7e5bcd4afd56860ed07bd",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739529638408-of8vj18o1ci6igvre81uio6afv39ki0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7w4b3ZWlgcawdOv3QknV24AJYWX3OsGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739529638408-of8vj18o1ci6igvre81uio6afv39ki0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

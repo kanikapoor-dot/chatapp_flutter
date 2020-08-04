@@ -50,8 +50,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     height: 50.0,
                   ),
                 ),
-                TyperAnimatedTextKit(
-                  pause: Duration(seconds: 2),
+                TypewriterAnimatedTextKit(
                   text: ['ChatOOp'],
                   textStyle: TextStyle(
                     fontSize: 45.0,
